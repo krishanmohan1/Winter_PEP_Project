@@ -22,7 +22,7 @@ Follow these steps to run the project locally:
 
 Clone the repository:
 
-git clone https://github.com/krishanmohan1/winter-pep-project.git
+https://github.com/krishanmohan1/Winter_PEP_Project
 
 Navigate to the project folder:
 
