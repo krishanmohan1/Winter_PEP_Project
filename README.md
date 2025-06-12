@@ -1,6 +1,6 @@
 Winter PEP Project
 
-🌐 Live Demo: Winter PEP Project      [live link] (https://winter-pep-project.vercel.app/)
+🌐 Live Demo: Winter PEP Project      [live link](https://winter-pep-project.vercel.app/)
 
 📌 Overview
 
